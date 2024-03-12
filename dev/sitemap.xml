@@ -88,6 +88,12 @@
     <loc>https://lintr.r-lib.org/dev/reference/common_mistakes_linters.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/comparison_negation_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/condition_call_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/condition_message_linter.html</loc>
   </url>
   <url>
@@ -98,6 +104,9 @@
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/consecutive_assertion_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/consecutive_mutate_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/consistency_linters.html</loc>
@@ -175,9 +184,6 @@
     <loc>https://lintr.r-lib.org/dev/reference/expect_type_linter.html</loc>
   </url>
   <url>
-    <loc>https://lintr.r-lib.org/dev/reference/extraction_operator_linter.html</loc>
-  </url>
-  <url>
     <loc>https://lintr.r-lib.org/dev/reference/fixed_regex_linter.html</loc>
   </url>
   <url>
@@ -203,6 +209,9 @@
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/if_not_else_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/if_switch_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/ifelse_censor_linter.html</loc>
@@ -271,6 +280,9 @@
     <loc>https://lintr.r-lib.org/dev/reference/lintr-package.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/list_comparison_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/literal_coercion_linter.html</loc>
   </url>
   <url>
@@ -295,13 +307,22 @@
     <loc>https://lintr.r-lib.org/dev/reference/nested_ifelse_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/nested_pipe_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/nonportable_path_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/normalize_exclusions.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/nrow_subset_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/numeric_leading_zero_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/nzchar_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/object_length_linter.html</loc>
@@ -310,7 +331,13 @@
     <loc>https://lintr.r-lib.org/dev/reference/object_name_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/object_overwrite_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/object_usage_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/one_call_pipe_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/outer_negation_linter.html</loc>
@@ -340,7 +367,13 @@
     <loc>https://lintr.r-lib.org/dev/reference/pipe_continuation_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/pipe_return_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/pkg_testthat_linters.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/print_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/quotes_linter.html</loc>
@@ -358,16 +391,28 @@
     <loc>https://lintr.r-lib.org/dev/reference/redundant_ifelse_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/regex_linters.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/regex_subset_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/rep_len_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/repeat_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/return_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/robustness_linters.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/routine_registration_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/sample_int_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/sarif_output.html</loc>
@@ -394,6 +439,9 @@
     <loc>https://lintr.r-lib.org/dev/reference/sprintf_linter.html</loc>
   </url>
   <url>
+    <loc>https://lintr.r-lib.org/dev/reference/stopifnot_all_linter.html</loc>
+  </url>
+  <url>
     <loc>https://lintr.r-lib.org/dev/reference/string_boundary_linter.html</loc>
   </url>
   <url>
@@ -404,6 +452,12 @@
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/system_file_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/terminal_close_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/tidy_design_linters.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/todo_comment_linter.html</loc>
@@ -427,7 +481,7 @@
     <loc>https://lintr.r-lib.org/dev/reference/unnecessary_lambda_linter.html</loc>
   </url>
   <url>
-    <loc>https://lintr.r-lib.org/dev/reference/unnecessary_nested_if_linter.html</loc>
+    <loc>https://lintr.r-lib.org/dev/reference/unnecessary_nesting_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/unnecessary_placeholder_linter.html</loc>
@@ -443,6 +497,9 @@
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/vector_logic_linter.html</loc>
+  </url>
+  <url>
+    <loc>https://lintr.r-lib.org/dev/reference/which_grepl_linter.html</loc>
   </url>
   <url>
     <loc>https://lintr.r-lib.org/dev/reference/whitespace_linter.html</loc>
